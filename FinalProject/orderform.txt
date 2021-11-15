@@ -1,0 +1,6 @@
+User Request: 1x MESH CHAIR 
+Output: Order cannot be fulfilled based on current inventory. Suggested manufacturers are 
+Office Furnishings
+Chairs R Us
+Furniture Goods
+Fine Office Supplies
